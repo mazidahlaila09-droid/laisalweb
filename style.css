@@ -60,7 +60,7 @@ body{
 }
 
 .kiri{
-    width:70%
+    width:70%;
     float:left;
     margin:auto;
     background:#fff;
@@ -68,7 +68,7 @@ body{
 }
 
 .kanan{
-    width:30%
+    width:30%;
     float:left;
     margin:auto;
     background:#fff;
@@ -80,7 +80,7 @@ body{
 }
 
 .footer{
-    width:90%
+    width:90%;
     margin:auto;
     height:40px;
     line-height:40px;
